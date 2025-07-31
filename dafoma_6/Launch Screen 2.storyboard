@@ -22,7 +22,7 @@
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="img-xJF6iuevyplkOLiJBkdGsBJR" translatesAutoresizingMaskIntoConstraints="NO" id="GWa-fK-2MT">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="app-icon-1753966305021" translatesAutoresizingMaskIntoConstraints="NO" id="GWa-fK-2MT">
                                 <rect key="frame" x="2" y="323" width="389" height="207"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -42,6 +42,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="img-xJF6iuevyplkOLiJBkdGsBJR" width="1024" height="1024"/>
+        <image name="app-icon-1753966305021" width="1024" height="1024"/>
     </resources>
 </document>
