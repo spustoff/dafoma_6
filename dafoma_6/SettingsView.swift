@@ -117,6 +117,17 @@ struct SettingsView: View {
                         action: { showingAbout = true }
                     )
                     
+                    SettingsRow(
+                        icon: "info.circle",
+                        title: "Data source",
+                        action: {
+                            
+                            guard let url = URL(string: "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight") else { return }
+                                
+                            UIApplication.shared.open(url)
+                        }
+                    )
+                    
                     HStack {
                         Image(systemName: "paintpalette")
                             .foregroundColor(Color.csVibrantGreen)
